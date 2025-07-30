@@ -5,6 +5,8 @@ description: "A usb-hub with 2 type c and 2 type A ports"
 created_at: "2025-07-29"
 ---
 
+**Total time spent so far: 11hrs**
+
 ## 29th July: Sch & PCB 
 >So, like I'm making this Usb-hub cause I just clicked that I have only 3 ports in my laptop, and two of em' are type-A and 1 is Type-C, And I have recently got my hackpad kit and built it and then I noticed that I don't have fucking ports in my laptop and now i'm just Sobbing. So, it's almost ending of highway but yea here it comes.
 >Frist, Really thanks for the guide on jams.hackclub.com It really helped me through out the process.
@@ -45,3 +47,11 @@ created_at: "2025-07-29"
 ![](/images/21.png)
 
 >Uhm I think I'm done with everything now all i need to do is setting up the repo and submitting and yea i live in india and now they have cutted electricity and I have only 20% in my lap , Nvm I can't do all the things now And yea I really grinded today so yea I'm gonna sleep now my prents are scolding me too. ^_^
+
+
+**Time Spent: 9hrs**
+
+## 31th July: Submitting and setting up the repo
+>Alr so it's like midnight But i think I will just do this then I will go to sleep. First I amde a folder which contained all the files and yea that's all I here by Anay signs out.
+
+**Time Spent: 2hrs**
